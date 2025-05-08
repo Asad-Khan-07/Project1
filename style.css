@@ -2221,12 +2221,9 @@ footer .footer-item {
     position: relative;
     width: 100%;
     top: 100px;
-    left: -25px;
+    left: 0px;
 
 }
-
-
-
 
     section .section-heading{
         width: 550px;
