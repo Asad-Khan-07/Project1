@@ -345,6 +345,12 @@ section .Harbour-intro .bank-account img{
     transform: rotate(30deg);
 }
 
+.Bank{
+    position: relative; 
+    top:-10px;
+     width: 350px;
+}
+
 
 section .Harbour-intro .other-things{
     width: 600px;
@@ -2293,7 +2299,12 @@ footer .footer-item {
         border-radius: 30px;
     }
     
-    
+    .Bank{
+    position: relative;
+    top: -32px;
+    width: 350px;
+    left: 195px;
+    }
     section .section-heading-work{
         text-align: center;
         width: 600px;
